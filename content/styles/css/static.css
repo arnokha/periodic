@@ -1,0 +1,304 @@
+/* --------------------  CSS file for static.xhtml  ------------------------ */
+* {
+  text-align: center;
+
+  padding: 0;
+  margin: 0;
+}
+body {
+  background-color: #2c2c2c;
+}
+main {
+  position: relative;
+
+  display: table;
+  margin: auto;
+}
+/* --- Text Rules --- */
+a {
+  height: 100%;
+  width: 100%;
+
+  color: #000;
+  text-decoration: none;
+  display: table;
+}
+strong, tt {
+  display: block;
+}
+ruby {
+  font-size: 16px;
+  line-height: 15px;
+
+  display: table-header-group;
+}
+rt {
+  font-size: 8px;
+  line-height: 8px;
+
+  display: table-caption;
+}
+strong {
+  font-size: 8px;
+  font-weight: normal;
+}
+tt {
+  font-size: 8px;
+}
+a > big {
+  font-size: 14px;
+
+  display: inline-block;
+  margin: auto;
+}
+q.square {
+  quotes: '[' ']';
+}
+/* --- Table Rules --- */
+table {
+  empty-cells: hide;
+
+  padding: 12px;
+  border-collapse: separate;
+  border-spacing: 6px;
+  margin: auto;
+}
+caption {
+  color: #8e8e8e;
+  font-size: 35px;
+  text-shadow: 0 0 17px #000;
+
+  padding-top: 16px;
+  margin: auto;
+}
+/* --- Table Cell Rules --- */
+td {
+  height: 60px;
+  width: 60px;
+  min-width: 60px;
+
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  padding: 3px;
+  border-radius: 6px;
+}
+th {
+  height: 60px;
+  width: 60px;
+
+  color: #676767;
+  font-size: 10px;
+  text-shadow: 0 0 4px #000;
+
+  padding: 2px;
+}
+/* --- Period/Group Key --- */
+.divider {
+  width: 65px;
+
+  transform: rotate(45deg);
+}
+.groups {
+  position: relative;
+  top: -10px;
+  left: 15px;
+
+  font-size: 12px;
+}
+.periods {
+  position: relative;
+  top: 15px;
+  left: -10px;
+
+  font-size: 12px;
+}
+/* --- Legend --- */
+.legend {
+  height: 60px;
+  width: 80px;
+
+  padding: 3px;
+  border-radius: 12px;
+}
+.legend_table {
+  width: 1000px;
+  padding-top: 25px;
+}
+td.legend > a {
+  display: inline-flex;
+}
+/* --- Element colors and gradients --- */
+.actinide, .actinide div {
+  background: radial-gradient(#717676, #616767);
+}
+.alkaline-earth, .alkaline-earth div {
+  background: radial-gradient(#998d88, #80716a);
+}
+.alkali-metal, .alkali-metal div {
+  background: radial-gradient(#a6a2a3, #908b8c);
+}
+.basic-metal, .basic-metal div {
+  background: radial-gradient(#99afb2, #849496);
+}
+.halogen, .halogen div {
+  background: radial-gradient(#5c6f7e, #4a5f70);
+}
+.lanthanide, .lanthanide div {
+  background: radial-gradient(#878f8f, #7a8383);
+}
+.noble-gas, .noble-gas div {
+  background: radial-gradient(#4c5576, #444c6a);
+}
+.nonmetal, .nonmetal div {
+  background: radial-gradient(#8e6060, #824e4e);
+}
+.semi-metal, .semi-metal div {
+  background: radial-gradient(#a07981, #956a73);
+}
+.transition-metal, .transition-metal div {
+  background: radial-gradient(#859297, #66777d);
+}
+/* --- Big Display: Image --- */
+figure {
+  height: 150px;
+  width: 220px;
+
+  position: absolute;
+  z-index: 1;
+  top: 120px;
+  left: 450px;
+
+  padding: 0;
+  margin: 0;
+}
+figure .magnifying_glass {
+  height: auto;
+  width: 100%;
+}
+.big_display {
+  height: 150px;
+  width: 220px;
+
+  position: absolute;
+  top: 120px;
+  left: 450px;
+
+  display: none;
+  margin: 0;
+  padding: 10px;
+  box-sizing: border-box;
+}
+.big_display > ruby {
+  width: 100%;
+
+  font-size: 44px;
+
+  display: inline-block;
+  line-height: 65px;
+}
+.big_display > ruby > rt {
+  font-size: 18px;
+  text-align: left;
+  line-height: 15px;
+
+  display:block;
+}
+.big_display > strong {
+  font-size: 18px;
+  line-height: 35px;
+}
+.big_display > tt {
+  font-size: 15px;
+  line-height: 15px;
+}
+td:hover div {
+  display: block;
+}
+td:hover p {
+  display: inline-block;
+}
+/* --- Big Display: Lines --- */
+td p {
+  font-size: 14px;
+}
+.at_number, .symbol, .name, .at_mass {
+  width: 150px;
+
+  position: absolute;
+
+  color: #8e8e8e;
+  text-shadow: 0 0 7px #000;
+
+  display: none;
+  white-space: nowrap;
+}
+.at_mass {
+  top: 252px;
+  left: 600px;
+}
+.at_number {
+  width: 70px;
+
+  top: 137px;
+  left: 387px;
+}
+.name {
+  width: 120px;
+
+  top: 227px;
+  left: 379px;
+}
+.symbol {
+  top: 175px;
+  left: 600px;
+}
+.at_mass::before {
+  position: absolute;
+  top: -5px;
+  left: 160px;
+
+  content: "Atomic mass";
+
+  display: block;
+}
+.at_number::before {
+  position: absolute;
+  top: -5px;
+  left: -95px;
+
+  content: "Atomic number";
+
+  display: block;
+}
+.name::before {
+  position: absolute;
+  top: -5px;
+  left: -87px;
+
+  content: "Element name";
+
+  display: block;
+}
+.symbol::before {
+  position: absolute;
+  top: -5px;
+  left: 160px;
+
+  content: "Element symbol";
+
+  display: block;
+}
+@media screen and (min-width: 2500px){
+    rt, strong, tt, th, a > big, .groups, .periods, td p {
+        font-size: 8px;
+    }
+
+    ruby {
+      font-size: 9px;
+    }
+
+    .divider {
+      width: 50px;
+    }
+}

@@ -1,0 +1,254 @@
+/* --------------------  CSS file for marquee.xhtml  ------------------------ */
+
+/* ---------- Element Selectors ------------ */
+
+* {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:-webkit-any-link {
+  color: -webkit-link;
+  text-decoration: underline;
+  cursor: auto;
+}
+
+body {
+  background-color: #2C2C2C;
+}
+
+main {
+  display: table;
+  margin: auto;
+  position: relative;
+}
+
+div.tr {
+  display: table-row;
+  background-color: #2C2C2C;
+}
+
+marquee {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  height: 100%;
+  width: 90%;
+  margin: auto;
+  border-radius: 19px;
+}
+
+
+/*  ------------  Text rules  -------------  */
+
+bdi {
+  font-size: 1.1em;
+}
+
+big {
+  font-size: 2em;
+  margin: 2px; 
+  padding: 2px;
+}
+
+small {
+  font-size: 0.8em;
+  position: relative;
+  left: -45px;
+  bottom: -5px;
+}
+
+big, bdi, bdo, small {
+  display: block;
+}
+
+small, bdi {
+  margin: 1px;
+  padding: 1px;
+}
+
+q.square {
+    quotes: '[' ']';
+} 
+
+div.caption {
+  color: #000000;
+  font-size: 4.2em;
+  text-shadow: 0 0 17px #767676;
+  margin: auto;
+  padding-top: 30px;
+  padding-bottom: 100px;
+  display: table-caption;
+}
+
+/*  ------------  Table rules  -------------  */
+
+
+
+div.table-parent {
+  border-collapse: separate;
+  empty-cells: hide;
+  margin: auto;
+  display: table;
+  background-color: #2C2C2C;
+  width: 2279px;
+  position: relative;
+  top: 50px;
+}
+
+div.inline-table {
+  empty-cells: hide;
+  background-color: #2C2C2C;
+  display: block;
+}
+
+div.thead {
+  display: table-header-group;
+}
+
+div.tbody {
+  position: relative;
+  background-color: #F8F8F8;
+  display: table-row-group;
+}
+
+div.tfoot {
+  display: table-footer-group;
+}
+
+/*  ------------  Table cell rules  -------------  */
+
+div.td {
+  border-radius: 12px;
+  height: 120px;
+  width: 120px;
+  min-width: 120px;
+  min-height: 120px;
+  padding: 3.5px;
+  display: table-cell;
+  background-color: #2C2C2C;
+}
+
+div.td div {
+  height: 100%;
+  border-radius: 12px;
+}
+
+div.row {
+  font-size: 1.2em;
+  height: 120px;
+  width: 120px;
+  min-width: 120px;
+  min-height: 120px;
+  max-width: 120px;
+  padding: 3px;
+  text-shadow: 0px 0px 4px #5E5E5E;
+  display: table-cell;
+  background-color: #2C2C2C;
+}
+
+div.first_row, .second_row, .third_row, .fourth_row {
+  display: table-cell;
+  width: 100%;
+}
+
+/*  ------------  Periodic Groups CSS  -------------  */
+
+div.actinide, .actinide div {
+  background: radial-gradient(#717676, #616767);
+}
+
+div.alkaline-earth, .alkaline-earth div {
+  background: radial-gradient(#998D88, #80716A);
+}
+
+div.alkali-metal, .alkali-metal div {
+  background: radial-gradient(#A6A2A3, #908B8C);
+}
+
+div.basic-metal, .basic-metal div {
+  background: radial-gradient(#99AFB2, #849496);
+}
+
+div.halogen, .halogen div {
+  background: radial-gradient(#5C6F7E, #4A5f70);
+}
+
+div.lanthanide, .lanthanide div {
+  background: radial-gradient(#878F8F, #7A8383);
+}
+
+div.noble-gas, .noble-gas div {
+  background: radial-gradient(#4F5E6A, #4E556C);
+}
+
+div.nonmetal, .nonmetal div {
+  background: radial-gradient(#8E6060, #824E4E);
+}
+
+div.semi-metal, .semi-metal div {
+  background: radial-gradient(#A07981, #956A73);
+}
+
+div.transition-metal, .transition-metal div {
+  background: radial-gradient(#859297, #66777D);
+}
+
+/* ----------- Big Display ------------- */
+div.big-display {
+  max-height: 275px;
+  width: 400px;
+  position: absolute;
+  top: 2px;
+  left: 950px;
+  display: none;
+  z-index: 0;
+}
+
+div.td:hover .big-display {
+    display: block;
+}
+
+figure {
+  position: absolute;
+  z-index: 1;
+  top: 250px;
+  left: 950px;
+  margin: 0px;
+  padding: 0px;
+  z-index: 1;
+}
+
+figure .magnifying_glass {
+    width: 100%;
+    height: auto;
+}
+
+/* ----------- Big Display: Text ------------- */
+.big-display > big {
+  font-size: 3.7em;
+  margin: 15px;
+}
+
+.big-display > small {
+  font-size: 1.7em;
+  margin-bottom: 30px;
+  left: -170px;
+}
+
+.big-display > bdo {
+  font-size: 1.9em;
+  line-height: 20px;
+  margin: 20px;
+}
+
+.big-display > bdi {
+  font-size: 1.9em;
+  line-height: 20px;
+}

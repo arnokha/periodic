@@ -1,0 +1,101 @@
+/* --------------------  CSS file for main.xhtml  ------------------------ */
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  overflow: hidden;
+}
+html, object, body, main {
+  height: 100%;
+  width: 100%;
+}
+/* Header Rules */
+header {
+  height: 55px;
+  width: 100%;
+
+  position: fixed;
+
+  line-height: 40px;
+
+  background-color: #575757;
+  box-shadow: 0 0 20px 0 rgba(0,0,0,.5);
+  margin-bottom: 455px;
+}
+header a {
+  height: 20px;
+
+  color: #e3dbe4;
+  line-height: 25px;
+  text-decoration: none;
+
+  display: inline-block;
+  padding-right: 8px; 
+  border-right: 2px solid #c0c0c0;
+}
+/* Menu Rules */
+header > menu {
+  position: absolute;
+  top: 10px;
+  right: 25px;
+
+  display: table;
+  margin: auto;
+}
+/* Drop Down Menu Rules */
+header > menu menu {
+  position: absolute;
+  z-index: 1;
+
+  background-color: #575757;
+
+  display: table;
+  visibility: hidden; 
+  border-radius: 0 0 5px 5px;
+}
+menuitem:nth-child(5):hover menu {
+  opacity: 1;
+  visibility: visible;
+}
+/* Menu Item Rules */
+menuitem p {
+  position: relative;
+  z-index: 2;
+  left: -5px;
+
+  color: #e3dbe4;
+  line-height: 40px;
+
+  padding: 0 11px;
+}
+menuitem a {
+  position: relative;
+  left: 3px;
+}
+menuitem a:hover {
+  background-color: #a0a0a0;
+  border-radius: 5px;
+}
+menuitem {
+  position: relative;
+
+  font-size: 18px;
+
+  display: inline-block;
+  padding: 0 2px;
+}
+.border, .img {
+  border: none;
+}
+/* Scroll Bar */
+object::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+object::-webkit-scrollbar-thumb {
+  width: 30px;
+
+  background-color: #3F9490;
+  border-radius: 5px;
+}

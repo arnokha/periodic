@@ -1,0 +1,377 @@
+/* --------------------  CSS file for marquee.xhtml  ------------------------ */
+* {
+  text-align: center;
+
+  padding: 0;
+  margin: 0;
+}
+a {
+  color: #000;
+  text-decoration: none;
+}
+body {
+  background-color: #2c2c2c;
+}
+main {
+  position: relative;
+
+  display: table;
+  margin: auto;
+}
+marquee {
+  height: 100%;
+  width: 60px;
+
+  position: relative;
+
+  overflow: hidden;
+  vertical-align: top;
+
+  display: block;
+  border-radius: 12px;
+  margin: auto;
+}
+/*  ------------  Text rules  -------------  */
+big, bdi, bdo, small {
+  display: block;
+}
+bdi {
+  font-size: 8px;
+  line-height: 9px;
+}
+bdo {
+  font-size: 8px;
+  line-height: 9px;
+}
+big {
+  font-size: 14px;
+  line-height: 15px; 
+}
+small {
+  font-size: 9px;
+  line-height: 9px;
+  text-align: left;
+  padding-left: 4px;
+}
+small, bdi {
+  line-height: 15px;
+}
+q.square {
+  quotes: '[' ']';
+} 
+/*  ------------  Table rules  -------------  */
+.table-parent {
+  width: 1116px;
+
+  position: relative;
+  top: 50px;
+
+  display: table;
+  background-color: #2c2c2c;
+  padding-bottom: 20px;
+  border-collapse: separate;
+  empty-cells: hide;
+  margin: auto;
+}
+.inline-table {
+  width: 100%;
+
+  display: block;
+  background-color: #2c2c2c;
+  border-collapse: separate;
+  empty-cells: hide;
+}
+.caption {
+  position: absolute;
+  z-index: 1;
+  top: -30px;
+  left: 320px;
+
+  color: #8E8E8E;
+  font-size: 35px;
+  text-shadow: 0 0 17px #000;
+
+  display: table-caption;
+}
+.thead {
+  display: table-header-group;
+}
+.tbody {
+  position: relative;
+
+  display: table-row-group;
+  background-color: #2c2c2c;
+}
+.tfoot {
+  display: table-footer-group;
+}
+.tr {
+  display: table-row;
+  background-color: #2c2c2c;
+}
+/*  ------------  Table cell rules  -------------  */
+.td {
+  height: 60px;
+  min-height: 60px;
+  max-height: 60px;
+  width: 60px;
+  min-width: 60px;
+
+  display: table-cell;
+  background-color: #2c2c2c;
+  padding: 2.5px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+
+  border-radius: 6px;
+}
+.th {
+  height: 60px;
+  min-height: 60px;
+  max-height: 60px;
+  width: 60px;
+  min-width: 60px;
+  max-width: 60px;
+
+  color: #676767;
+  vertical-align: bottom;
+  font-size: 10px;
+  text-shadow: 0 0 4px #000;
+
+  display: table-cell;
+  padding: 2px;
+}
+.period {
+  position: relative;
+  top: -28px;
+}
+.td div {
+  height: 100%;
+
+  border-radius: 6px;
+}
+.first_row, .second_row {
+  width: 100%;
+  display: table-cell;
+}
+/*  ------------  Periodic Groups CSS  -------------  */
+div.actinide, .actinide div {
+  background: radial-gradient(#717676, #616767);
+}
+div.alkaline-earth, .alkaline-earth div {
+  background: radial-gradient(#998d88, #80716a);
+}
+div.alkali-metal, .alkali-metal div {
+  background: radial-gradient(#a6A2a3, #908b8c);
+}
+div.basic-metal, .basic-metal div {
+  background: radial-gradient(#99afb2, #849496);
+}
+div.halogen, .halogen div {
+  background: radial-gradient(#5c6f7e, #4a5f70);
+}
+div.lanthanide, .lanthanide div {
+  background: radial-gradient(#878f8f, #7a8383);
+}
+div.noble-gas, .noble-gas div {
+  background: radial-gradient(#4c5576, #444c6a);
+}
+div.nonmetal, .nonmetal div {
+  background: radial-gradient(#8e6060, #824e4e);
+}
+div.semi-metal, .semi-metal div {
+  background: radial-gradient(#a07981, #956a73);
+}
+div.transition-metal, .transition-metal div {
+  background: radial-gradient(#859297, #66777d);
+}
+/* ----------- Big Display ------------- */
+figure {
+  width: 220px;
+
+  position: absolute;
+  z-index: 1;
+  top: 100px;
+  left: 415px;
+
+  padding: 0;
+  margin: 0;
+}
+figure .magnifying_glass {
+  height: auto;
+  width: 100%;
+}
+.big-display {
+  max-height: 150px;
+  width: 220px;
+
+  position: absolute;
+  top: 50px;
+  left: 415px;
+
+  display: none;
+}
+.td:hover .big-display {
+  display: block;
+}
+/* ----------- Big Display: Text ------------- */
+.big-display > small, .big-display > big,
+.big-display > bdo, .big-display > bdi {
+  line-height: 20px;
+  margin: 5px;
+}
+.big-display > small {
+  left: 10px;
+
+  font-size: 18px;
+}
+.big-display > big {
+  font-size: 38px;
+
+  padding-top: 20px;
+}
+.big-display > bdo {
+  font-size: 16px;
+  line-height: 20px;
+  padding-top: 10px;
+}
+.big-display > bdi {
+  font-size: 16px;
+  line-height: 20px;
+}
+/* Big Display -- Lines */
+.big-display > small::before , .big-display > big::before,
+.big-display > bdo::before, .big-display > bdi::before,
+.big-display > small::after , .big-display > big::after,
+.big-display > bdo::after, .big-display > bdi::after {
+  position: absolute;
+  z-index: 2;
+
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-weight: normal;
+  font-size: 15px;
+
+  overflow: visible;
+  white-space: nowrap;
+}
+/* Content - Lines */
+.big-display > small::before {
+  top: -10px;
+  left: -93px;
+
+  content: url(SVG/atomic_number_line.svg);
+}
+.big-display > big::before {
+  top: 5px;
+  left: 150px;
+
+  content: url(SVG/element_symbol_line.svg);
+}
+.big-display > bdo::before {
+  top: 80px;
+  left: 160px;
+
+  content: url(SVG/element_name_line.svg);
+}
+.big-display > bdi::before {
+  top: 118px;
+  left: -88px;
+
+  content: url(SVG/atomic_weight_line.svg);
+}
+/* Content - Text */
+.big-display > small::after {
+  top: -18px;
+  left: -195px;
+
+  content: "Atomic number";
+}
+.big-display > big::after {
+  top: 11px;
+  left: 300px;
+
+  content: "Element symbol";
+}
+.big-display > bdo::after {
+  top: 108px;
+  left: 300px;
+
+  content: "Element name";
+}
+.big-display > bdi::after {
+  top: 122px;
+  left: -175px;
+
+  content: "Atomic mass";
+}
+.big-display > small::after, .big-display > big::after,
+.big-display > bdo::after, .big-display > bdi::after {
+  color: #8e8e8e;
+  text-shadow: 0 0 7px #000;
+}
+/* --- Period/Group Key --- */
+.groups {
+  position: relative;
+  top: -20px;
+  left: 15px;
+
+  font-size: 12px;
+}
+.periods {
+  position: relative;
+  top: 5px;
+  left: -10px;
+
+  font-size: 12px;
+}
+.divider {
+  width: 70px;
+
+  position: absolute;
+  top: 40px;
+  left: 0;
+
+  transform: rotate(45deg);
+}
+/* --- Legend --- */
+.legend {
+  height: 60px;
+  min-height: 60px;
+  width: 80px;
+  min-width: 60px;
+
+  padding: 3px;
+  border-radius: 12px;
+}
+.legend > a {
+  display: inline-flex;
+}
+.legend_table {
+  display: table;
+  padding-top: 45px;
+  margin: auto;
+}
+.legend-text {
+  height: 50%;
+  width: 90%;
+
+  font-size: 13px;
+
+  display: block;
+  padding: 15px 0;
+  margin: auto;
+}
+
+@media screen and (min-width: 2500px){
+    small, bdi, bdo, .groups, .periods, .legend-text, .th {
+        font-size: 8px;
+    }
+
+    big {
+      font-size: 9px;
+    }
+
+    .divider {
+      width: 50px;
+    }
+}

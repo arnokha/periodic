@@ -1,0 +1,77 @@
+@font-face {
+  font-family: Calligraphy;
+  src: url(content/fonts/Question and Love.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 900px;
+  background-color: #2C2C2C;
+  margin: 95px auto 0;		
+}
+
+figure {
+  float: left;		
+  padding: 100px 40px 30px 40px;
+}
+
+img {
+  width: 200px;	
+}
+
+article section:nth-of-type(1) {
+  width: 800px;
+  padding: 30px 30px 20px 30px;    			
+}
+
+article section:nth-of-type(2) {
+  width: 500px;
+
+  color: #B00000;
+  font-family: Calligraphy;
+  font-size: 17px;
+
+  padding: 0 0 20px 30px;
+}
+
+article section:nth-of-type(3) {
+  width: 800px;
+  padding: 0 30px 20px 0;
+} 
+
+article section:nth-of-type(4) {
+  width: 800px;
+  padding: 0 30px 30px 0;
+}
+
+h1 {
+  width: 800px;
+  position: relative;  			
+  color: #A00000;
+  font-family: Tahoma;
+  font-size: 30px;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+p {
+	width: 800px; 
+	font-family: lobster, cursive;
+    text-align: justify;
+    text-indent: 10px;
+    padding-left: 40px;
+}
+
+em {
+	color: #B00000;
+	font-family: Times New Roman;
+	font-size: 25px;
+}
+
+.section {
+	width: 830px;
+}

@@ -1,0 +1,1493 @@
+'   &lt;!--   ******************        Main Table        ********************   -->\
+   &lt;figure>\
+     &lt;img class="magnifying_glass" src="http://i.imgur.com/5g3mqWs.png"/>\
+   &lt;/figure>\
+\
+   &lt;table>\
+\
+     &lt;caption>The Periodic Table of Elements&lt;/caption>\
+\
+     &lt;!-- *** Row 0 (for headings only) *** -->\
+     &lt;tbody>\
+     &lt;tr>\
+       &lt;th>&lt;/th>\
+       &lt;th scope = "col">1&lt;/th>\
+       &lt;th colspan = "16">&lt;/th>\
+       &lt;th scope = "col">18&lt;/th>\
+     &lt;/tr>  \
+            \
+     &lt;!-- *** 1st row *** -->\
+     &lt;tr>\
+       &lt;th scope = "row">1&lt;/th>\
+       &lt;!-- H -->\
+       &lt;td class = "nonmetal">\
+       &lt;a href="link;Hydrogen">\
+         &lt;ruby>H&lt;rt>1&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Hydrogen&lt;/strong>\
+         &lt;tt>1.0079&lt;/tt>\
+       &lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>H&lt;rt>1&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Hydrogen&lt;/strong>\
+         &lt;tt>1.0079&lt;/tt>\
+       &lt;/div>\
+       &lt;/td>\
+       &lt;th scope = "col">2&lt;/th>\
+       &lt;td colspan = "10">&lt;/td>\
+       &lt;th scope = "col">13&lt;/th>\
+       &lt;th scope = "col">14&lt;/th>\
+       &lt;th scope = "col">15&lt;/th>\
+       &lt;th scope = "col">16&lt;/th>\
+       &lt;th scope = "col">17&lt;/th>\
+       &lt;!-- He -->\
+       &lt;td class = "noble-gas">\
+       &lt;a href="link;Helium">\
+         &lt;ruby>He&lt;rt>2&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Helium&lt;/strong>\
+         &lt;tt>4.0026&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>He&lt;rt>2&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Helium&lt;/strong>\
+         &lt;tt>4.0026&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+     &lt;/tr>\
+      \
+     &lt;!-- *** 2nd row *** -->\
+     &lt;tr>\
+       &lt;th scope = "row">2&lt;/th>\
+       &lt;!-- Li -->\
+       &lt;td class = "alkali-metal">\
+       &lt;a href="link;Lithium">\
+         &lt;ruby>Li&lt;rt>3&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lithium&lt;/strong>\
+         &lt;tt>6.941&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Li&lt;rt>3&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lithium&lt;/strong>\
+         &lt;tt>6.941&lt;/tt> \
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Be -->\
+       &lt;td class = "alkaline-earth">\
+       &lt;a href="link;Beryllium">\
+         &lt;ruby>Be&lt;rt>4&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Beryllium&lt;/strong>\
+         &lt;tt>9.0122&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Be&lt;rt>4&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Beryllium&lt;/strong>\
+         &lt;tt>9.0122&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td colspan = "10">&lt;/td>&lt;!-- 3 - 12 -->\
+       &lt;!-- B -->\
+       &lt;td class = "semi-metal">\
+       &lt;a href="link;Boron">\
+         &lt;ruby>B&lt;rt>5&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Boron&lt;/strong>\
+         &lt;tt>10.811&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>B&lt;rt>5&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Boron&lt;/strong>\
+         &lt;tt>10.811&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- C -->\
+       &lt;td class = "nonmetal">\
+       &lt;a href="link;Carbon">\
+         &lt;ruby>C&lt;rt>6&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Carbon&lt;/strong>\
+         &lt;tt>12.0107&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>C&lt;rt>6&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Carbon&lt;/strong>\
+         &lt;tt>12.0107&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- N -->\
+       &lt;td class = "nonmetal">\
+       &lt;a href="link;Nitrogen">\
+         &lt;ruby>N&lt;rt>7&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Nitrogen&lt;/strong>\
+         &lt;tt>14.0067&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>N&lt;rt>7&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Nitrogen&lt;/strong>\
+         &lt;tt>14.0067&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- O -->\
+       &lt;td class = "nonmetal">\
+       &lt;a href="link;Oxygen">\
+         &lt;ruby>O&lt;rt>8&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Oxygen&lt;/strong>\
+         &lt;tt>15.9994&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>O&lt;rt>8&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Oxygen&lt;/strong>\
+         &lt;tt>15.9994&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- F -->\
+       &lt;td class = "halogen">\
+       &lt;a href="link;Fluorine">\
+         &lt;ruby>F&lt;rt>9&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Fluorine&lt;/strong>\
+         &lt;tt>18.9984&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>F&lt;rt>9&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Fluorine&lt;/strong>\
+         &lt;tt>18.9984&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ne -->\
+       &lt;td class = "noble-gas">\
+       &lt;a href="link;Neon">\
+         &lt;ruby>Ne&lt;rt>10&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Neon&lt;/strong>\
+         &lt;tt>20.1797&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ne&lt;rt>10&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Neon&lt;/strong>\
+         &lt;tt>20.1797&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+     &lt;/tr>\
+      \
+     &lt;!-- *** 3rd row *** -->\
+     &lt;tr>\
+       &lt;th scope = "row">3&lt;/th>\
+       &lt;!-- Na -->\
+       &lt;td class = "alkali-metal">\
+       &lt;a href="link;Sodium">\
+         &lt;ruby>Na&lt;rt>11&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Sodium&lt;/strong>\
+         &lt;tt>22.9897&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Na&lt;rt>11&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Sodium&lt;/strong>\
+         &lt;tt>22.9897&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Mg -->\
+       &lt;td class = "alkaline-earth">\
+       &lt;a href="link;Magnesium">\
+         &lt;ruby>Mg&lt;rt>12&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Magnesium&lt;/strong>\
+         &lt;tt>24.305&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Mg&lt;rt>12&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Magnesium&lt;/strong>\
+         &lt;tt>24.305&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;th scope = "col">3&lt;/th>\
+       &lt;th scope = "col">4&lt;/th>\
+       &lt;th scope = "col">5&lt;/th>\
+       &lt;th scope = "col">6&lt;/th>\
+       &lt;th scope = "col">7&lt;/th>\
+       &lt;th scope = "col">8&lt;/th>\
+       &lt;th scope = "col">9&lt;/th>\
+       &lt;th scope = "col">10&lt;/th>\
+       &lt;th scope = "col">11&lt;/th>\
+       &lt;th scope = "col">12&lt;/th>\
+       &lt;!-- Al -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Aluminum">\
+         &lt;ruby>Al&lt;rt>13&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Aluminum&lt;/strong>\
+         &lt;tt>26.9815&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Al&lt;rt>13&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Aluminum&lt;/strong>\
+         &lt;tt>26.9815&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Si -->\
+       &lt;td class = "semi-metal">\
+       &lt;a href="link;Silicon">\
+         &lt;ruby>Si&lt;rt>14&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Silicon&lt;/strong>\
+         &lt;tt>28.0855&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Si&lt;rt>14&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Silicon&lt;/strong>\
+         &lt;tt>28.0855&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- P -->\
+       &lt;td class = "nonmetal">\
+       &lt;a href="link;Phosphorus">\
+         &lt;ruby>P&lt;rt>15&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Phosphorus&lt;/strong>\
+         &lt;tt>30.9738&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>P&lt;rt>15&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Phosphorus&lt;/strong>\
+         &lt;tt>30.9738&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- S -->\
+       &lt;td class = "nonmetal">\
+       &lt;a href="link;Sulfur">\
+         &lt;ruby>S&lt;rt>16&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Sulfur&lt;/strong>\
+         &lt;tt>32.065&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>S&lt;rt>16&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Sulfur&lt;/strong>\
+         &lt;tt>32.065&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Cl -->\
+       &lt;td class = "halogen">\
+       &lt;a href="link;Chlorine">\
+         &lt;ruby>Cl&lt;rt>17&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Chlorine&lt;/strong>\
+         &lt;tt>35.453&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Cl&lt;rt>17&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Chlorine&lt;/strong>\
+         &lt;tt>35.453&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ar -->\
+       &lt;td class = "noble-gas">\
+       &lt;a href="link;Argon">\
+         &lt;ruby>Ar&lt;rt>18&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Argon&lt;/strong>\
+         &lt;tt>39.948&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ar&lt;rt>18&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Argon&lt;/strong>\
+         &lt;tt>39.948&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+     &lt;/tr>\
+      \
+     &lt;!-- *** 4th row *** -->\
+     &lt;tr>\
+       &lt;th scope = "row">4&lt;/th>\
+       &lt;!-- K -->\
+       &lt;td class = "alkali-metal">\
+       &lt;a href="link;Potassium">\
+         &lt;ruby>K&lt;rt>19&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Potassium&lt;/strong>\
+         &lt;tt>39.0983&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>K&lt;rt>19&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Potassium&lt;/strong>\
+         &lt;tt>39.0983&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ca -->\
+       &lt;td class = "alkaline-earth">\
+       &lt;a href="link;Calcium">\
+         &lt;ruby>Ca&lt;rt>20&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Calcium&lt;/strong>\
+         &lt;tt>40.078&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ca&lt;rt>20&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Calcium&lt;/strong>\
+         &lt;tt>40.078&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Sc -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Scandium">\
+         &lt;ruby>Sc&lt;rt>21&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Scandium&lt;/strong>\
+         &lt;tt>44.9559&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Sc&lt;rt>21&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Scandium&lt;/strong>\
+         &lt;tt>44.9559&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ti -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Titanium">\
+         &lt;ruby>Ti&lt;rt>22&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Titanium&lt;/strong>\
+         &lt;tt>47.867&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ti&lt;rt>22&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Titanium&lt;/strong>\
+         &lt;tt>47.867&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- V -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Vanadium">\
+         &lt;ruby>V&lt;rt>23&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Vanadium&lt;/strong>\
+         &lt;tt>50.9415&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>V&lt;rt>23&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Vanadium&lt;/strong>\
+         &lt;tt>50.9415&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Cr -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Chromium">\
+         &lt;ruby>Cr&lt;rt>24&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Chromium&lt;/strong>\
+         &lt;tt>51.9961&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Cr&lt;rt>24&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Chromium&lt;/strong>\
+         &lt;tt>51.9961&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Mn -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Manganese">\
+         &lt;ruby>Mn&lt;rt>25&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Manganese&lt;/strong>\
+         &lt;tt>54.938&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Mn&lt;rt>25&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Manganese&lt;/strong>\
+         &lt;tt>54.938&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Fe -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Iron">\
+         &lt;ruby>Fe&lt;rt>26&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Iron&lt;/strong>\
+         &lt;tt>55.845&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Fe&lt;rt>26&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Iron&lt;/strong>\
+         &lt;tt>55.845&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Co -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Cobalt">\
+         &lt;ruby>Co&lt;rt>27&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Cobalt&lt;/strong>\
+         &lt;tt>58.9332&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Co&lt;rt>27&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Cobalt&lt;/strong>\
+         &lt;tt>58.9332&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ni -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Nickel">\
+         &lt;ruby>Ni&lt;rt>28&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Nickel&lt;/strong>\
+         &lt;tt>58.6934&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ni&lt;rt>28&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Nickel&lt;/strong>\
+         &lt;tt>58.6934&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Cu -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Copper">\
+         &lt;ruby>Cu&lt;rt>29&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Copper&lt;/strong>\
+         &lt;tt>63.546&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Cu&lt;rt>29&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Copper&lt;/strong>\
+         &lt;tt>63.546&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Zn -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Zinc">\
+         &lt;ruby>Zn&lt;rt>30&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Zinc&lt;/strong>\
+         &lt;tt>65.39&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Zn&lt;rt>30&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Zinc&lt;/strong>\
+         &lt;tt>65.39&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ga -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Gallium">\
+         &lt;ruby>Ga&lt;rt>31&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Gallium&lt;/strong>\
+         &lt;tt>69.723&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ga&lt;rt>31&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Gallium&lt;/strong>\
+         &lt;tt>69.723&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ge -->\
+       &lt;td class = "semi-metal">\
+       &lt;a href="link;Germanium">\
+         &lt;ruby>Ge&lt;rt>32&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Germanium&lt;/strong>\
+         &lt;tt>72.64&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ge&lt;rt>32&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Germanium&lt;/strong>\
+         &lt;tt>72.64&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- As -->\
+       &lt;td class = "semi-metal">\
+       &lt;a href="link;Arsenic">\
+         &lt;ruby>As&lt;rt>33&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Arsenic&lt;/strong>\
+         &lt;tt>74.9216&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>As&lt;rt>33&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Arsenic&lt;/strong>\
+         &lt;tt>74.9216&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Se -->\
+       &lt;td class = "nonmetal">\
+       &lt;a href="link;Selenium">\
+         &lt;ruby>Se&lt;rt>34&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Selenium&lt;/strong>\
+         &lt;tt>78.96&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Se&lt;rt>34&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Selenium&lt;/strong>\
+         &lt;tt>78.96&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Br -->\
+       &lt;td class = "halogen">\
+       &lt;a href="link;Bromine">\
+         &lt;ruby>Br&lt;rt>35&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Bromine&lt;/strong>\
+         &lt;tt>79.904&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Br&lt;rt>35&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Bromine&lt;/strong>\
+         &lt;tt>79.904&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Kr -->\
+       &lt;td class = "noble-gas">\
+       &lt;a href="link;Krypton">\
+         &lt;ruby>Kr&lt;rt>36&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Krypton&lt;/strong>\
+         &lt;tt>83.8&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Kr&lt;rt>36&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Krypton&lt;/strong>\
+         &lt;tt>83.8&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+     &lt;/tr>\
+      \
+     &lt;!-- *** 5th row *** -->\
+     &lt;tr>\
+       &lt;th scope = "row">5&lt;/th>\
+       &lt;!-- Rb -->\
+       &lt;td class = "alkali-metal">\
+       &lt;a href="link;Rubidium">\
+         &lt;ruby>Rb&lt;rt>37&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Rubidium&lt;/strong>\
+         &lt;tt>85.4678&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Rb&lt;rt>37&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Rubidium&lt;/strong>\
+         &lt;tt>85.4678&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Sr -->\
+       &lt;td class = "alkaline-earth">\
+       &lt;a href="link;Strontium">\
+         &lt;ruby>Sr&lt;rt>38&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Strontium&lt;/strong>\
+         &lt;tt>87.62&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Sr&lt;rt>38&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Strontium&lt;/strong>\
+         &lt;tt>87.62&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Y -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Yttrium">\
+         &lt;ruby>Y&lt;rt>39&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Yttrium&lt;/strong>\
+         &lt;tt>88.9059&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Y&lt;rt>39&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Yttrium&lt;/strong>\
+         &lt;tt>88.9059&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Zr -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Zirconium">\
+         &lt;ruby>Zr&lt;rt>40&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Zirconium&lt;/strong>\
+         &lt;tt>91.224&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Zr&lt;rt>40&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Zirconium&lt;/strong>\
+         &lt;tt>91.224&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+      &lt;!-- Nb -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Niobium">\
+         &lt;ruby>Nb&lt;rt>41&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Niobium&lt;/strong>\
+         &lt;tt>92.9064&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Nb&lt;rt>41&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Niobium&lt;/strong>\
+         &lt;tt>92.9064&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Mo -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Molybdenum">\
+         &lt;ruby>Mo&lt;rt>42&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Molybdenum&lt;/strong>\
+         &lt;tt>95.94&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Mo&lt;rt>42&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Molybdenum&lt;/strong>\
+         &lt;tt>95.94&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Tc -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Technetium">\
+         &lt;ruby>Tc&lt;rt>43&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Technetium&lt;/strong>\
+         &lt;tt>98&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Tc&lt;rt>43&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Technetium&lt;/strong>\
+         &lt;tt>98&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ru -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Ruthenium">\
+         &lt;ruby>Ru&lt;rt>44&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ruthenium&lt;/strong>\
+         &lt;tt>101.07&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ru&lt;rt>44&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ruthenium&lt;/strong>\
+         &lt;tt>101.07&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Rh -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Rhodium">\
+         &lt;ruby>Rh&lt;rt>45&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Rhodium&lt;/strong>\
+         &lt;tt>102.9055&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Rh&lt;rt>45&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Rhodium&lt;/strong>\
+         &lt;tt>102.9055&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Pd -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Palladium">\
+         &lt;ruby>Pd&lt;rt>46&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Palladium&lt;/strong>\
+         &lt;tt>106.42&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Pd&lt;rt>46&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Palladium&lt;/strong>\
+         &lt;tt>106.42&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ag -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Silver">\
+         &lt;ruby>Ag&lt;rt>47&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Silver&lt;/strong>\
+         &lt;tt>107.8682&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ag&lt;rt>47&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Silver&lt;/strong>\
+         &lt;tt>107.8682&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Cd -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Cadmium">\
+         &lt;ruby>Cd&lt;rt>48&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Cadmium&lt;/strong>\
+         &lt;tt>112.411&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Cd&lt;rt>48&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Cadmium&lt;/strong>\
+         &lt;tt>112.411&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- In -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Indium">\
+         &lt;ruby>In&lt;rt>49&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Indium&lt;/strong>\
+         &lt;tt>114.818&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>In&lt;rt>49&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Indium&lt;/strong>\
+         &lt;tt>114.818&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Sn -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Tin">\
+         &lt;ruby>Sn&lt;rt>50&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Tin&lt;/strong>\
+         &lt;tt>118.71&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Sn&lt;rt>50&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Tin&lt;/strong>\
+         &lt;tt>118.71&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Sb -->\
+       &lt;td class = "semi-metal">\
+       &lt;a href="link;Antimony">\
+         &lt;ruby>Sb&lt;rt>51&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Antimony&lt;/strong>\
+         &lt;tt>121.76&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Sb&lt;rt>51&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Antimony&lt;/strong>\
+         &lt;tt>121.76&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Te -->\
+       &lt;td class = "semi-metal">\
+       &lt;a href="link;Tellurium">\
+         &lt;ruby>Te&lt;rt>52&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Tellurium&lt;/strong>\
+         &lt;tt>127.6&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Te&lt;rt>52&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Tellurium&lt;/strong>\
+         &lt;tt>127.6&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- I -->\
+       &lt;td class = "halogen">\
+       &lt;a href="link;Iodine">\
+         &lt;ruby>I&lt;rt>53&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Iodine&lt;/strong>\
+         &lt;tt>126.9045&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>I&lt;rt>53&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Iodine&lt;/strong>\
+         &lt;tt>126.9045&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Xe -->\
+       &lt;td class = "noble-gas">\
+       &lt;a href="link;Xenon">\
+         &lt;ruby>Xe&lt;rt>54&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Xenon&lt;/strong>\
+         &lt;tt>131.293&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Xe&lt;rt>54&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Xenon&lt;/strong>\
+         &lt;tt>131.293&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+     &lt;/tr>\
+      \
+     &lt;!-- *** 6th row *** -->\
+     &lt;tr>\
+       &lt;th scope = "row">6&lt;/th>\
+       &lt;!-- Cs -->\
+       &lt;td class = "alkali-metal">\
+       &lt;a href="link;Cesium">\
+         &lt;ruby>Cs&lt;rt>55&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Cesium&lt;/strong>\
+         &lt;tt>132.9055&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Cs&lt;rt>55&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Cesium&lt;/strong>\
+         &lt;tt>132.9055&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ba -->\
+       &lt;td class = "alkaline-earth">\
+       &lt;a href="link;Barium">\
+         &lt;ruby>Ba&lt;rt>56&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Barium&lt;/strong>\
+         &lt;tt>137.327&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ba&lt;rt>56&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Barium&lt;/strong>\
+         &lt;tt>137.327&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Lanthanides [57, 71] -->\
+       &lt;td class = "lanthanide">\
+         &lt;ruby>57-71&lt;/ruby>\
+       &lt;/td>\
+       &lt;!-- Hf -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Hafnium">\
+         &lt;ruby>Hf&lt;rt>72&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Hafnium&lt;/strong>\
+         &lt;tt>178.49&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Hf&lt;rt>72&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Hafnium&lt;/strong>\
+         &lt;tt>178.49&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ta -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Tantalum">\
+         &lt;ruby>Ta&lt;rt>73&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Tantalum&lt;/strong>\
+         &lt;tt>180.9479&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ta&lt;rt>73&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Tantalum&lt;/strong>\
+         &lt;tt>180.9479&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- W -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Tungsten">\
+         &lt;ruby>W&lt;rt>74&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Tungsten&lt;/strong>\
+         &lt;tt>183.84&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>W&lt;rt>74&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Tungsten&lt;/strong>\
+         &lt;tt>183.84&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Re -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Rhenium">\
+         &lt;ruby>Re&lt;rt>75&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Rhenium&lt;/strong>\
+         &lt;tt>186.207&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Re&lt;rt>75&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Rhenium&lt;/strong>\
+         &lt;tt>186.207&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Os -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Osmium">\
+         &lt;ruby>Os&lt;rt>76&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Osmium&lt;/strong>\
+         &lt;tt>190.23&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Os&lt;rt>76&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Osmium&lt;/strong>\
+         &lt;tt>190.23&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ir -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Iridium">\
+         &lt;ruby>Ir&lt;rt>77&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Iridium&lt;/strong>\
+         &lt;tt>192.217&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ir&lt;rt>77&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Iridium&lt;/strong>\
+         &lt;tt>192.217&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Pt -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Platinum">\
+         &lt;ruby>Pt&lt;rt>78&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Platinum&lt;/strong>\
+         &lt;tt>195.078&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Pt&lt;rt>78&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Platinum&lt;/strong>\
+         &lt;tt>195.078&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Au -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Gold">\
+         &lt;ruby>Au&lt;rt>79&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Gold&lt;/strong>\
+         &lt;tt>196.9665&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Au&lt;rt>79&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Gold&lt;/strong>\
+         &lt;tt>196.9665&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Hg -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Mercury">\
+         &lt;ruby>Hg&lt;rt>80&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Mercury&lt;/strong>\
+         &lt;tt>200.59&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Hg&lt;rt>80&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Mercury&lt;/strong>\
+         &lt;tt>200.59&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Tl -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Thallium">\
+         &lt;ruby>Tl&lt;rt>81&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Thallium&lt;/strong>\
+         &lt;tt>204.3833&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Tl&lt;rt>81&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Thallium&lt;/strong>\
+         &lt;tt>204.3833&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Pb -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Lead">\
+         &lt;ruby>Pb&lt;rt>82&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lead&lt;/strong>\
+         &lt;tt>207.2&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Pb&lt;rt>82&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lead&lt;/strong>\
+         &lt;tt>207.2&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Bi -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Bismuth">\
+         &lt;ruby>Bi&lt;rt>83&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Bismuth&lt;/strong>\
+         &lt;tt>208.9804&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Bi&lt;rt>83&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Bismuth&lt;/strong>\
+         &lt;tt>208.9804&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Po -->\
+       &lt;td class = "semi-metal">\
+       &lt;a href="link;Polonium">\
+         &lt;ruby>Po&lt;rt>84&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Polonium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">209&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Po&lt;rt>84&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Polonium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">209&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- At -->\
+       &lt;td class = "halogen">\
+       &lt;a href="link;Astatine">\
+         &lt;ruby>At&lt;rt>85&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Astatine&lt;/strong>\
+         &lt;tt>210&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>At&lt;rt>85&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Astatine&lt;/strong>\
+         &lt;tt>210&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Rn -->\
+       &lt;td class = "noble-gas">\
+       &lt;a href="link;Radon">\
+         &lt;ruby>Rn&lt;rt>86&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Radon&lt;/strong>\
+         &lt;tt>222&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Rn&lt;rt>86&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Radon&lt;/strong>\
+         &lt;tt>222&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+     &lt;/tr>\
+      \
+     &lt;!-- *** 7th row *** -->\
+     &lt;tr>\
+       &lt;th scope = "row">7&lt;/th>\
+       &lt;!-- Fr -->\
+       &lt;td class = "alkali-metal">\
+       &lt;a href="link;Francium">\
+         &lt;ruby>Fr&lt;rt>87&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Francium&lt;/strong>\
+         &lt;tt>223.02&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Fr&lt;rt>87&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Francium&lt;/strong>\
+         &lt;tt>223.02&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ra -->\
+       &lt;td class = "alkaline-earth">\
+       &lt;a href="link;Radium">\
+         &lt;ruby>Ra&lt;rt>88&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Radium&lt;/strong>\
+         &lt;tt>226.03&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ra&lt;rt>88&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Radium&lt;/strong>\
+         &lt;tt>226.03&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Actinides [89, 103] -->\
+       &lt;td class = "actinide">\
+         &lt;ruby>89-103&lt;/ruby>\
+       &lt;/td>\
+       &lt;!-- Rf -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Rutherfordium">\
+         &lt;ruby>Rf&lt;rt>104&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Rutherfordium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">261&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Rf&lt;rt>104&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Rutherfordium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">261&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Db -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Dubnium">\
+         &lt;ruby>Db&lt;rt>105&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Dubnium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">262&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Db&lt;rt>105&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Dubnium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">262&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Sg -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Seaborgium">\
+         &lt;ruby>Sg&lt;rt>106&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Seaborgium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">266&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Sg&lt;rt>106&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Seaborgium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">266&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Bh -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Bohrium">\
+         &lt;ruby>Bh&lt;rt>107&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Bohrium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">264&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Bh&lt;rt>107&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Bohrium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">264&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Hs -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Hassium">\
+         &lt;ruby>Hs&lt;rt>108&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Hassium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">269&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Hs&lt;rt>108&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Hassium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">269&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Mt -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Meitnerium">\
+         &lt;ruby>Mt&lt;rt>109&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Meitnerium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">268&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Mt&lt;rt>109&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Meitnerium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">268&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Ds -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Darmstadtium">\
+         &lt;ruby>Ds&lt;rt>110&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Darmstadtium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">269&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ds&lt;rt>110&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Darmstadtium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">269&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Rg -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Roentgenium">\
+         &lt;ruby>Rg&lt;rt>111&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Roentgenium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">272&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Rg&lt;rt>111&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Roentgenium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">272&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Cn -->\
+       &lt;td class = "transition-metal">\
+       &lt;a href="link;Copernicium">\
+         &lt;ruby>Cn&lt;rt>112&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Copernicium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">277&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Cn&lt;rt>112&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Copernicium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">277&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Uut -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Ununtrium">\
+         &lt;ruby>Uut&lt;rt>113&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ununtrium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">unknown&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Uut&lt;rt>113&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ununtrium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">unknown&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Uuq -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Flerovium">\
+         &lt;ruby>Fl&lt;rt>114&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Flerovium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">289&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Fl&lt;rt>114&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Flerovium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">289&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Uup -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Ununpentium">\
+         &lt;ruby>Uup&lt;rt>115&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ununpentium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">unknown&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Uup&lt;rt>115&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ununpentium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">unknown&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Uuh -->\
+       &lt;td class = "basic-metal">\
+       &lt;a href="link;Livermorium">\
+         &lt;ruby>Lv&lt;rt>116&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Livermorium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">261&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Lv&lt;rt>116&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Livermorium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">261&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Uus -->\
+       &lt;td class = "halogen">\
+       &lt;a href="link;Ununseptium">\
+         &lt;ruby>Uus&lt;rt>117&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ununseptium&lt;/strong>\
+         &lt;tt>261&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Uus&lt;rt>117&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ununseptium&lt;/strong>\
+         &lt;tt>261&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;!-- Uuo -->\
+       &lt;td class = "noble-gas">\
+       &lt;a href="link;Ununoctium">\
+         &lt;ruby>Uuo&lt;rt>118&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ununoctium&lt;/strong>\
+         &lt;tt>unknown&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Uuo&lt;rt>118&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ununoctium&lt;/strong>\
+         &lt;tt>unknown&lt;/tt>\
+      &lt;/div>\
+      &lt;/td>\
+     &lt;/tr>   \
+     &lt;/tbody>\
+\
+     &lt;tfoot>&lt;/tfoot>\
+\
+&lt;/table>\
+\
+\
+   &lt;!-- ******************    Lanthanides and Alkalides    ******************** -->\
+   &lt;table>\
+   &lt;thead>&lt;/thead>\
+\
+   &lt;tbody>\
+     &lt;!-- Lanthanides -->\
+     &lt;tr>\
+       &lt;th scope = "row" id = "lanthanide-heading"> \
+            Lanthanide Series&lt;/th>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Lanthanum">\
+         &lt;ruby>La&lt;rt>57&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lanthanum&lt;/strong>\
+         &lt;tt>138.9055&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>La&lt;rt>57&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lanthanum&lt;/strong>\
+         &lt;tt>138.9055&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Cerium">\
+         &lt;ruby>Ce&lt;rt>58&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Cerium&lt;/strong>\
+         &lt;tt>140.116&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ce&lt;rt>58&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Cerium&lt;/strong>\
+         &lt;tt>140.116&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Praseodymium">\
+         &lt;ruby>Pr&lt;rt>59&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Praseodymium&lt;/strong>\
+         &lt;tt>140.9077&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Pr&lt;rt>59&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Praseodymium&lt;/strong>\
+         &lt;tt>140.9077&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Neodymium">\
+         &lt;ruby>Nd&lt;rt>60&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Neodymium&lt;/strong>\
+         &lt;tt>144.24&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Nd&lt;rt>60&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Neodymium&lt;/strong>\
+         &lt;tt>144.24&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Promethium">\
+         &lt;ruby>Pm&lt;rt>61&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Promethium&lt;/strong>\
+         &lt;tt>145&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Pm&lt;rt>61&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Promethium&lt;/strong>\
+         &lt;tt>145&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Samarium">\
+         &lt;ruby>Sm&lt;rt>62&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Samarium&lt;/strong>\
+         &lt;tt>150.36&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Sm&lt;rt>62&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Samarium&lt;/strong>\
+         &lt;tt>150.36&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Europium">\
+         &lt;ruby>Eu&lt;rt>63&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Europium&lt;/strong>\
+         &lt;tt>151.964&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Eu&lt;rt>63&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Europium&lt;/strong>\
+         &lt;tt>151.964&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Gadolinium">\
+         &lt;ruby>Gd&lt;rt>64&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Gadolinium&lt;/strong>\
+         &lt;tt>157.25&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Gd&lt;rt>64&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Gadolinium&lt;/strong>\
+         &lt;tt>157.25&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Terbium">\
+         &lt;ruby>Tb&lt;rt>65&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Terbium&lt;/strong>\
+         &lt;tt>158.9253&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Tb&lt;rt>65&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Terbium&lt;/strong>\
+         &lt;tt>158.9253&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Dysprosium">\
+         &lt;ruby>Dy&lt;rt>66&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Dysprosium&lt;/strong>\
+         &lt;tt>162.5&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Dy&lt;rt>66&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Dysprosium&lt;/strong>\
+         &lt;tt>162.5&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Holmium">\
+         &lt;ruby>Ho&lt;rt>67&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Holmium&lt;/strong>\
+         &lt;tt>164.9303&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ho&lt;rt>67&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Holmium&lt;/strong>\
+         &lt;tt>164.9303&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Erbium">\
+         &lt;ruby>Er&lt;rt>68&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Erbium&lt;/strong>\
+         &lt;tt>167.259&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Er&lt;rt>68&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Erbium&lt;/strong>\
+         &lt;tt>167.259&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Thulium">\
+         &lt;ruby>Tm&lt;rt>69&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Thulium&lt;/strong>\
+         &lt;tt>168.9342&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Tm&lt;rt>69&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Thulium&lt;/strong>\
+         &lt;tt>168.9342&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Ytterbium">\
+         &lt;ruby>Yb&lt;rt>70&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ytterbium&lt;/strong>\
+         &lt;tt>173.04&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Yb&lt;rt>70&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Ytterbium&lt;/strong>\
+         &lt;tt>173.04&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "lanthanide">\
+       &lt;a href="link;Lutetium">\
+         &lt;ruby>Lu&lt;rt>71&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lutetium&lt;/strong>\
+         &lt;tt>174.967&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Lu&lt;rt>71&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lutetium&lt;/strong>\
+         &lt;tt>174.967&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+     &lt;/tr>\
+\
+     &lt;!-- Actinides -->\
+     &lt;tr>\
+       &lt;th scope = "row" id = "actinide-heading">\
+          Actinide Series \
+       &lt;/th>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Actinium">\
+         &lt;ruby>Ac&lt;rt>89&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Actinium&lt;/strong>\
+         &lt;tt>227&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Ac&lt;rt>89&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Actinium&lt;/strong>\
+         &lt;tt>227&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Thorium">\
+         &lt;ruby>Th&lt;rt>90&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Thorium&lt;/strong>\
+         &lt;tt>232.0381&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Th&lt;rt>90&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Thorium&lt;/strong>\
+         &lt;tt>232.0381&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Protactinium">\
+         &lt;ruby>Pa&lt;rt>91&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Protactinium&lt;/strong>\
+         &lt;tt>231.0359&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Pa&lt;rt>91&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Protactinium&lt;/strong>\
+         &lt;tt>231.0359&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Uranium">\
+         &lt;ruby>U&lt;rt>92&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Uranium&lt;/strong>\
+         &lt;tt>238.0289&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>U&lt;rt>92&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Uranium&lt;/strong>\
+         &lt;tt>238.0289&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Neptunium">\
+         &lt;ruby>Np&lt;rt>93&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Neptunium&lt;/strong>\
+         &lt;tt>237&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Np&lt;rt>93&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Neptunium&lt;/strong>\
+         &lt;tt>237&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Plutonium">\
+         &lt;ruby>Pu&lt;rt>94&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Plutonium&lt;/strong>\
+         &lt;tt>244&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Pu&lt;rt>94&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Plutonium&lt;/strong>\
+         &lt;tt>244&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Americium">\
+         &lt;ruby>Am&lt;rt>95&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Americium&lt;/strong>\
+         &lt;tt>243&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Am&lt;rt>95&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Americium&lt;/strong>\
+         &lt;tt>243&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Curium">\
+         &lt;ruby>Cm&lt;rt>96&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Curium&lt;/strong>\
+         &lt;tt>247&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Cm&lt;rt>96&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Curium&lt;/strong>\
+         &lt;tt>247&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Berkelium">\
+         &lt;ruby>Bk&lt;rt>97&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Berkelium&lt;/strong>\
+         &lt;tt>247&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Bk&lt;rt>97&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Berkelium&lt;/strong>\
+         &lt;tt>247&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Californium">\
+         &lt;ruby>Cf&lt;rt>98&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Californium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">251&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Cf&lt;rt>98&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Californium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">251&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Einsteinium">\
+         &lt;ruby>Es&lt;rt>99&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Einsteinium&lt;/strong>\
+         &lt;tt>252&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Es&lt;rt>99&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Einsteinium&lt;/strong>\
+         &lt;tt>252&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Fermium">\
+         &lt;ruby>Fm&lt;rt>100&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Fermium&lt;/strong>\
+         &lt;tt>257&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Fm&lt;rt>100&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Fermium&lt;/strong>\
+         &lt;tt>257&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Mendelevium">\
+         &lt;ruby>Md&lt;rt>101&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Mendelevium&lt;/strong>\
+         &lt;tt>258&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Md&lt;rt>101&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Mendelevium&lt;/strong>\
+         &lt;tt>258&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Nobelium">\
+         &lt;ruby>No&lt;rt>102&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Nobelium&lt;/strong>\
+         &lt;tt>259&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>No&lt;rt>102&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Nobelium&lt;/strong>\
+         &lt;tt>259&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+       &lt;td class = "actinide">\
+       &lt;a href="link;Lawrencium">\
+         &lt;ruby>Lr&lt;rt>103&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lawrencium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">262&lt;/q>&lt;/tt>&lt;/a>\
+       &lt;div class = "big_display">\
+         &lt;ruby>Lr&lt;rt>103&lt;/rt>&lt;rp>nobrowser;&lt;/rp>&lt;/ruby>\
+         &lt;strong>Lawrencium&lt;/strong>\
+         &lt;tt>&lt;q class = "square">262&lt;/q>&lt;/tt>\
+      &lt;/div>\
+       &lt;/td>\
+     &lt;/tr>\
+     &lt;/tbody>\
+\
+     &lt;tfoot>&lt;/tfoot>\
+   &lt;/table>'
