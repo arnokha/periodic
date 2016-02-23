@@ -1,5 +1,9 @@
 # Periodic Table of Elements
 
----------------------------------------
-Open main.xhtml to navigate the website
----------------------------------------
+## Description
+
+My first HTML/CSS project, a peiodic table.
+
+## Navigation
+
+To navigate the website, open main.xhtml.
