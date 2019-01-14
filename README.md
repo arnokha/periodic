@@ -2,7 +2,7 @@
 
 ## Description
 
-My first HTML/CSS project, a peiodic table.
+My first HTML/CSS project, a periodic table.
 
 ## Navigation
 
